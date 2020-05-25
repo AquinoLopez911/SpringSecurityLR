@@ -1,0 +1,28 @@
+@charset "UTF-8"; 
+
+* {
+	magin : 0;
+	padding: 0;
+}
+
+body {
+	background: url("../images/abstract.jpg");
+	background-size: cover;
+}
+
+.jumbotron {
+	/* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#7db9e8+0,2989d8+39,2989d8+39,207cca+68,1e5799+100 */
+	/* background: #7db9e8; Old browsers
+	background: -moz-linear-gradient(top,  #7db9e8 0%, #2989d8 39%, #2989d8 39%, #207cca 68%, #1e5799 100%); FF3.6-15
+	background: -webkit-linear-gradient(top,  #7db9e8 0%,#2989d8 39%,#2989d8 39%,#207cca 68%,#1e5799 100%); Chrome10-25,Safari5.1-6
+	background: linear-gradient(to bottom,  #7db9e8 0%,#2989d8 39%,#2989d8 39%,#207cca 68%,#1e5799 100%); W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#7db9e8', endColorstr='#1e5799',GradientType=0 ); IE6-9 */
+	
+	background: url("../images/registerJumbo.jpg");
+	background-size: cover;	
+
+}
+
+.greeting-label {
+	font-size: 55px;
+}

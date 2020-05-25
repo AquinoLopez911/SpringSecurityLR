@@ -1,0 +1,10 @@
+using DAO(Data Access Object) patter to loosely couple the data access layer from the buisness layer
+
+-web layer
+	-authentication controller
+-security layer
+	-spring security
+-data access layer
+	-UserDao
+-service layer
+
